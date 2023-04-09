@@ -1,2 +1,2 @@
 # typing_speed_test
-`URL: `
+`URL: https://asin211.github.io/typing_speed_test/`
